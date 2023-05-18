@@ -6,3 +6,7 @@ post functionality with title and description
 Home page to watch your and others post
 like/dislike functionality
 Sign out functionality
+
+## Local Development
+
+1. Open index.html in your browser.
